@@ -1,176 +1,129 @@
 import React from "react"
+import Layout from "../components/Layout"
 
 export default function Home() {
   return (
-    <section>
-      <div>
-        <h1>
-          VMBO 2022: 16th International Workshop on Value Modelling and Business
-          Ontologies
-        </h1>
-        <p class="subtitle">
-          Co-located with the{" "}
-          <a href="https://caise22.ugent.be/">
-            34th International Conference on Advanced Information Systems
-            Engineering (CAiSE 2022)
-          </a>
-          , Leuven, Belgium, 06-10 June, 2022.
-        </p>
-        <h2>Call for papers</h2>
-        <h3>About</h3>
-        <p>
-          The importance of modeling the essence of enterprises on a level that
-          abstracts from operational details is increasingly recognized. Two
-          established enterprise modeling approaches are value modeling and
-          business ontology. Business ontology provides abstract descriptions of
-          enterprises in their business context, focusing on what is needed to
-          create and transfer value. Value modeling is a business modeling
-          approach that focuses on the value objects exchanged in business
-          networks. Business ontology and value modeling research are conducted
-          using instruments like UFO (Unified Foundational Ontology), REA
-          (Resources, Events, Agents), the Business Model Canvas, the e3value
-          toolset, VDML (Value Delivery Modeling Language), and the Enterprise
-          Engineering framework
-        </p>
-        <p>The goal of the VMBO workshop series is two-fold:</p>
-        <ul>
-          <li>
-            to bring together researchers with an interest in value modeling and
-            business ontology to present and discuss the current state of
-            enterprise or business modeling
-          </li>
-          <li>to identify key areas for further research</li>
-        </ul>
-        <h3>Topics</h3>
-        <p>Topics of interest include, but are not limited to:</p>
-        <ul>
-          <li>Service ontology for business</li>
-          <li>Service-oriented view of business ontology</li>
-          <li>Enterprise Engineering</li>
-          <li>Business modeling of service exchanges</li>
-          <li>Value modeling fundamentals</li>
-          <li>Value modeling applications and experiences</li>
-          <li>Business ontology fundamentals</li>
-          <li>Business ontology applications and experiences</li>
-          <li>Role of value modeling in enterprise architecture</li>
-          <li>Ontology-driven enterprise system development</li>
-          <li>Ontology-aware enterprise systems</li>
-          <li>Pragmatic Web – theory and applications</li>
-          <li>Ontological representations of aggregated data</li>
-          <li>Business ontology / value models for auditing</li>
-          <li>
-            Business ontology / value models for managerial decision making
-          </li>
-          <li>Business ontology / value models for strategy exploration</li>
-          <li>
-            Business ontology / value models for business process management
-          </li>
-        </ul>
-        <h3>Important dates</h3>
-        <ul>
-          <li>Paper submission: 8 March 2022</li>
-          <li>Author notification: 8 April 2022</li>
-          <li>Camera-ready: 18 April 2022</li>
-          <li>Workshop: 6-7 June 2022</li>
-        </ul>
-        <h3>Instructions for submissions</h3>
-        <p>
-          Submissions should describe original research ideas or contributions,
-          present problems or challenges encountered in practice, or report on
-          industrial cases and practices.
-        </p>
-        <p>
-          We encourage authors to submit papers for which they would like
-          feedback from other participants of the workshop.
-        </p>
-        <p>Submissions must:</p>
-        <ul>
-          <li>Respect the 8-page limit (excluding references)</li>
-          <li>Be submitted in the PDF format</li>
-          <li>
-            Follow the proceedings style of{" "}
-            <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">
-              Springer’s Lecture Notes in Computer Science (LNCS)
+    <Layout>
+      <section>
+        <div>
+          <h1>
+            VMBO 2022: 16th International Workshop on Value Modelling and
+            Business Ontologies
+          </h1>
+          <p className="subtitle">
+            Co-located with the{" "}
+            <a href="https://caise22.ugent.be/">
+              34th International Conference on Advanced Information Systems
+              Engineering (CAiSE 2022)
             </a>
-            .
-          </li>
-        </ul>
-        <p>
-          Submission your paper via{" "}
-          <a href="https://easychair.org/conferences/?conf=caise22">
-            https://easychair.org/conferences/?conf=caise22
-          </a>{" "}
-          by selecting the track "Value Modeling and Business Ontologies".
-        </p>
+            , Leuven, Belgium, 06-10 June, 2022.
+          </p>
+          <h2>Call for papers</h2>
+          <h3>About</h3>
+          <p>
+            The importance of modeling the essence of enterprises on a level
+            that abstracts from operational details is increasingly recognized.
+            Two established enterprise modeling approaches are value modeling
+            and business ontology. Business ontology provides abstract
+            descriptions of enterprises in their business context, focusing on
+            what is needed to create and transfer value. Value modeling is a
+            business modeling approach that focuses on the value objects
+            exchanged in business networks. Business ontology and value modeling
+            research are conducted using instruments like UFO (Unified
+            Foundational Ontology), REA (Resources, Events, Agents), the
+            Business Model Canvas, the e3value toolset, VDML (Value Delivery
+            Modeling Language), and the Enterprise Engineering framework
+          </p>
+          <p>The goal of the VMBO workshop series is two-fold:</p>
+          <ul>
+            <li>
+              to bring together researchers with an interest in value modeling
+              and business ontology to present and discuss the current state of
+              enterprise or business modeling
+            </li>
+            <li>to identify key areas for further research</li>
+          </ul>
+          <h3>Topics</h3>
+          <p>Topics of interest include, but are not limited to:</p>
+          <ul>
+            <li>Service ontology for business</li>
+            <li>Service-oriented view of business ontology</li>
+            <li>Enterprise Engineering</li>
+            <li>Business modeling of service exchanges</li>
+            <li>Value modeling fundamentals</li>
+            <li>Value modeling applications and experiences</li>
+            <li>Business ontology fundamentals</li>
+            <li>Business ontology applications and experiences</li>
+            <li>Role of value modeling in enterprise architecture</li>
+            <li>Ontology-driven enterprise system development</li>
+            <li>Ontology-aware enterprise systems</li>
+            <li>Pragmatic Web – theory and applications</li>
+            <li>Ontological representations of aggregated data</li>
+            <li>Business ontology / value models for auditing</li>
+            <li>
+              Business ontology / value models for managerial decision making
+            </li>
+            <li>Business ontology / value models for strategy exploration</li>
+            <li>
+              Business ontology / value models for business process management
+            </li>
+          </ul>
+          <h3>Important dates</h3>
+          <ul>
+            <li>Paper submission: 8 March 2022</li>
+            <li>Author notification: 8 April 2022</li>
+            <li>Camera-ready: 18 April 2022</li>
+            <li>Workshop: 6-7 June 2022</li>
+          </ul>
+          <h3>Instructions for submissions</h3>
+          <p>
+            Submissions should describe original research ideas or
+            contributions, present problems or challenges encountered in
+            practice, or report on industrial cases and practices.
+          </p>
+          <p>
+            We encourage authors to submit papers for which they would like
+            feedback from other participants of the workshop.
+          </p>
+          <p>Submissions must:</p>
+          <ul>
+            <li>Respect the 8-page limit (excluding references)</li>
+            <li>Be submitted in the PDF format</li>
+            <li>
+              Follow the proceedings style of{" "}
+              <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">
+                Springer’s Lecture Notes in Computer Science (LNCS)
+              </a>
+              .
+            </li>
+          </ul>
+          <p>
+            Submission your paper via{" "}
+            <a href="https://easychair.org/conferences/?conf=caise22">
+              https://easychair.org/conferences/?conf=caise22
+            </a>{" "}
+            by selecting the track "Value Modeling and Business Ontologies".
+          </p>
 
-        <p>
-          Accepted papers will be published with CEUR-WS.org online proceedings
-          (if desired by the authors).
-        </p>
+          <p>
+            Accepted papers will be published with CEUR-WS.org online
+            proceedings (if desired by the authors).
+          </p>
 
-        <p>
-          We support the submission of VMBO papers afterward to a special issue
-          of a journal, e.g., Journal of Applied Ontology (JAO) or Journal of
-          Emerging Technologies in Accounting (JETA), if possible.
-        </p>
+          <p>
+            We support the submission of VMBO papers afterward to a special
+            issue of a journal, e.g., Journal of Applied Ontology (JAO) or
+            Journal of Emerging Technologies in Accounting (JETA), if possible.
+          </p>
 
-        <p>
-          Note that submitted papers will be reviewed only marginally. The
-          program committee will use the papers to put together a final program;
-          the aim is to accommodate all relevant papers with sufficient quality.
-        </p>
-
-        <h3>Workshop chairs</h3>
-        <ul>
-          <li>Paul Johannesson, KTH Royal Institute of Technology, Sweden</li>
-          <li>Hans Weigand, Tilburg University, The Netherlands</li>
-          <li>Tiago Prince Sales, Free University of Bozen-Bolzano, Italy</li>
-        </ul>
-
-        <h3>Program Committee (Tentative)</h3>
-        <ul>
-          <li> Ben Roelens – Open University, The Netherlands</li>
-          <li>Bill McCarthy – Michigan State University, USA</li>
-          <li>Christian Huemer – TU Wien, Austria</li>
-          <li>
-            Daniele Porello – Laboratory for Applied Ontology – ISTC-CNR, Italy
-          </li>
-          <li>
-            Erik Proper – Luxembourg Institute of Science and Technology,
-            Luxembourg
-          </li>
-          <li>Frederik Gailly – Ghent University, Belgium</li>
-          <li>Faiza A. Bukhsh – University of Twente, The Netherlands</li>
-          <li>Geert Poels – Ghent University, Belgium</li>
-          <li>Graham Gal – University of Massachusetts, USA</li>
-          <li>Hans Weigand – Tilburg University, The Netherlands</li>
-          <li>
-            Iván Razo-Zapata – Instituto Tecnológico Autónomo de México (ITAM),
-            Mexico
-          </li>
-          <li>Jaap Gordijn – Vrije Universiteit Amsterdam, The Netherlands</li>
-          <li>Giancarlo Guizzardi – University of Twente, The Netherlands</li>
-          <li>Cristine Griffo – Free University of Bozen-Bolzano, Italy</li>
-          <li>
-            João Paulo A. Almeida – Federal University of Espírito Santo, Brazil
-          </li>
-          <li>Joris Hulstijn – Tilburg University, The Netherlands</li>
-          <li>Marten van Sinderen – University of Twente, The Netherlands</li>
-          <li>Michaël Verdonck – Vrije Universiteit Brussel, Belgium</li>
-          <li>Mike Bennett – Hypercube Limited, UK</li>
-          <li>
-            Nicola Guarino – Laboratory for Applied Ontology – ISTC-CNR, Italy
-          </li>
-          <li>Paul Johannesson – Stockholm University, Sweden</li>
-          <li>Pavel Hruby – REA technologies, Denmark</li>
-          <li>
-            Renata S. S. Guizzardi – University of Twente, The Netherlands
-          </li>
-          <li>Walter Schwaiger – TU Wien, Austria</li>
-          <li>Wim Laurier – Université Saint-Louis, Belgium</li>
-          <li>Yao-Hua Tan – Delft University of Technology, The Netherlands</li>
-        </ul>
-      </div>
-    </section>
+          <p>
+            Note that submitted papers will be reviewed only marginally. The
+            program committee will use the papers to put together a final
+            program; the aim is to accommodate all relevant papers with
+            sufficient quality.
+          </p>
+        </div>
+      </section>
+    </Layout>
   )
 }
