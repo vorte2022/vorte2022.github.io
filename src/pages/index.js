@@ -163,6 +163,7 @@ export default function Home() {
             <li> Ben Roelens – Open University, The Netherlands</li>
             <li>Bill McCarthy – Michigan State University, USA</li>
             <li>Christian Huemer – TU Wien, Austria</li>
+            <li>Cristine Griffo – Free University of Bozen-Bolzano, Italy</li>
             <li>
               Daniele Porello – Laboratory for Applied Ontology – ISTC-CNR,
               Italy
@@ -174,6 +175,7 @@ export default function Home() {
             <li>Frederik Gailly – Ghent University, Belgium</li>
             <li>Faiza A. Bukhsh – University of Twente, The Netherlands</li>
             <li>Geert Poels – Ghent University, Belgium</li>
+            <li>Giancarlo Guizzardi – University of Twente, The Netherlands</li>
             <li>Graham Gal – University of Massachusetts, USA</li>
             <li>Hans Weigand – Tilburg University, The Netherlands</li>
             <li>
@@ -183,8 +185,6 @@ export default function Home() {
             <li>
               Jaap Gordijn – Vrije Universiteit Amsterdam, The Netherlands
             </li>
-            <li>Giancarlo Guizzardi – University of Twente, The Netherlands</li>
-            <li>Cristine Griffo – Free University of Bozen-Bolzano, Italy</li>
             <li>
               João Paulo A. Almeida – Federal University of Espírito Santo,
               Brazil
