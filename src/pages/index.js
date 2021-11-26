@@ -208,7 +208,7 @@ export default function Home() {
             </li>
           </ul>
 
-          <h3>Previous editions</h3>
+          <h3 id="previous">Previous editions</h3>
           <ul>
             <li>
               <a
