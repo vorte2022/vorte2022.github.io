@@ -68,14 +68,14 @@ export default function Home() {
               Business ontology / value models for business process management
             </li>
           </ul>
-          <h3>Important dates</h3>
+          <h3 id="dates">Important dates</h3>
           <ul>
-            <li>Paper submission: 8 March 2022</li>
+            <li>Paper submission: 8 March 2022 AoE (strict)</li>
             <li>Author notification: 8 April 2022</li>
             <li>Camera-ready: 18 April 2022</li>
             <li>Workshop: 6-7 June 2022</li>
           </ul>
-          <h3>Instructions for submissions</h3>
+          <h3 id="guidelines">Submission guidelines</h3>
           <p>
             Submissions should describe original research ideas or
             contributions, present problems or challenges encountered in
@@ -85,29 +85,36 @@ export default function Home() {
             We encourage authors to submit papers for which they would like
             feedback from other participants of the workshop.
           </p>
-          <p>Submissions must:</p>
+          <p>Submissions should:</p>
           <ul>
             <li>Respect the 8-page limit (excluding references)</li>
-            <li>Be submitted in the PDF format</li>
+            <li>Be submitted in PDF</li>
             <li>
-              Follow the proceedings style of{" "}
-              <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">
-                Springer’s Lecture Notes in Computer Science (LNCS)
+              Comply with the{" "}
+              <a href="https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/">
+                1-column CEUR-ART Style
               </a>
-              .
             </li>
           </ul>
-          <p>
-            Submission your paper via{" "}
-            <a href="https://easychair.org/conferences/?conf=caise22">
-              https://easychair.org/conferences/?conf=caise22
-            </a>{" "}
-            by selecting the track "Value Modeling and Business Ontologies".
-          </p>
 
           <p>
+            When submitting your paper, please select the track{" "}
+            <b>"Value Modeling and Business Ontologies"</b>.
+          </p>
+
+          <div>
+            <a
+              href="https://easychair.org/conferences/?conf=caise22"
+              class="button"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Submit a paper
+            </a>
+          </div>
+          <p>
             Accepted papers will be published with CEUR-WS.org online
-            proceedings (if desired by the authors).
+            proceedings, if desired by the authors.
           </p>
 
           <p>
@@ -122,6 +129,154 @@ export default function Home() {
             program; the aim is to accommodate all relevant papers with
             sufficient quality.
           </p>
+          <h3 id="organization">Workshop chairs</h3>
+          <ul>
+            <li>
+              <div>
+                <a href="https://research.tilburguniversity.edu/en/persons/hans-weigand">
+                  Paul Johannesson
+                </a>
+                , KTH Royal Institute of Technology, Sweden
+              </div>
+              <div>pajo [at] dsv.su.se</div>
+            </li>
+            <li>
+              <div>
+                <a href="https://research.tilburguniversity.edu/en/persons/hans-weigand">
+                  Hans Weigand
+                </a>
+                , Tilburg University, The Netherlands
+              </div>
+              <div>h.weigand [at] tilburguniversity.edu</div>
+            </li>
+            <li>
+              <div>
+                <a href="https://inf.unibz.it/~tpsales">Tiago Prince Sales</a>,
+                Free University of Bozen-Bolzano, Italy
+              </div>
+              <div>tiago.princesales [at] unibz.it</div>
+            </li>
+          </ul>
+
+          <h3>Program Committee (Tentative)</h3>
+          <ul>
+            <li> Ben Roelens – Open University, The Netherlands</li>
+            <li>Bill McCarthy – Michigan State University, USA</li>
+            <li>Christian Huemer – TU Wien, Austria</li>
+            <li>
+              Daniele Porello – Laboratory for Applied Ontology – ISTC-CNR,
+              Italy
+            </li>
+            <li>
+              Erik Proper – Luxembourg Institute of Science and Technology,
+              Luxembourg
+            </li>
+            <li>Frederik Gailly – Ghent University, Belgium</li>
+            <li>Faiza A. Bukhsh – University of Twente, The Netherlands</li>
+            <li>Geert Poels – Ghent University, Belgium</li>
+            <li>Graham Gal – University of Massachusetts, USA</li>
+            <li>Hans Weigand – Tilburg University, The Netherlands</li>
+            <li>
+              Iván Razo-Zapata – Instituto Tecnológico Autónomo de México
+              (ITAM), Mexico
+            </li>
+            <li>
+              Jaap Gordijn – Vrije Universiteit Amsterdam, The Netherlands
+            </li>
+            <li>Giancarlo Guizzardi – University of Twente, The Netherlands</li>
+            <li>Cristine Griffo – Free University of Bozen-Bolzano, Italy</li>
+            <li>
+              João Paulo A. Almeida – Federal University of Espírito Santo,
+              Brazil
+            </li>
+            <li>Joris Hulstijn – Tilburg University, The Netherlands</li>
+            <li>Marten van Sinderen – University of Twente, The Netherlands</li>
+            <li>Michaël Verdonck – Vrije Universiteit Brussel, Belgium</li>
+            <li>Mike Bennett – Hypercube Limited, UK</li>
+            <li>
+              Nicola Guarino – Laboratory for Applied Ontology – ISTC-CNR, Italy
+            </li>
+            <li>Paul Johannesson – Stockholm University, Sweden</li>
+            <li>Pavel Hruby – REA technologies, Denmark</li>
+            <li>
+              Renata S. S. Guizzardi – University of Twente, The Netherlands
+            </li>
+            <li>Walter Schwaiger – TU Wien, Austria</li>
+            <li>Wim Laurier – Université Saint-Louis, Belgium</li>
+            <li>
+              Yao-Hua Tan – Delft University of Technology, The Netherlands
+            </li>
+          </ul>
+
+          <h3>Previous editions</h3>
+          <ul>
+            <li>
+              <a
+                href="https://vmbo2021.events.unibz.it/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                VMBO 2021
+              </a>
+              , Bolzano, IT (Virtual)
+            </li>
+            <li>
+              <a
+                href="https://vmbo2020.ugent.be/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                VMBO 2020
+              </a>
+              , Brussels, BE
+            </li>
+            <li>
+              <a
+                href="https://vmbo2019.blogs.dsv.su.se/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                VMBO 2019
+              </a>
+              , Stockholm, SE
+            </li>
+            <li>
+              <a
+                href="https://vmbo2018.e3value.com/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                VMBO 2018
+              </a>
+              , Amsterdam, NL
+            </li>
+            <li>
+              <a
+                href="https://www.list.lu/en/conference/vmbo2017/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                VMBO 2017
+              </a>
+              , Belvaux, LU
+            </li>
+            <li>VMBO 2016, Trento, IT</li>
+            <li>
+              <a
+                href="https://vmbo2015.blogs.dsv.su.se/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                VMBO 2015
+              </a>
+              , Tilburg, NL
+            </li>
+            <li>VMBO 2014, Berlin, DE</li>
+            <li>VMBO 2013, Delft, NL</li>
+            <li>VMBO 2012, Vienna, AT</li>
+            <li>VMBO 2011, Ghent, BE</li>
+            <li>VMBO 2009, Amsterdam, NL</li>
+          </ul>
         </div>
       </section>
     </Layout>

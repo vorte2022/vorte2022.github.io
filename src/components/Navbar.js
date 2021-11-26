@@ -1,18 +1,50 @@
 import { Link } from "gatsby"
+import { AnchorLink } from "gatsby-plugin-anchor-links"
 import React from "react"
 
 export default function Navbar() {
   return (
     <header>
       <div className="navbar">
-        <h1 className="logo">VMBO 2022</h1>
+        <Link to="/" className="logo">
+          VMBO 2022
+        </Link>
         <nav>
           <ul>
             <li>
-              <Link to="/">Home</Link>
+              <AnchorLink
+                to="/#dates"
+                title="Important Dates"
+                className="stripped"
+                stripHash
+              />
             </li>
+
             <li>
-              <Link to="/organization">Organization</Link>
+              <AnchorLink
+                to="/#guidelines"
+                title="Submission Guidelines"
+                className="stripped"
+                stripHash
+              />
+            </li>
+
+            <li>
+              <AnchorLink
+                to="/#organization"
+                title="Organization"
+                className="stripped"
+                stripHash
+              />
+            </li>
+
+            <li>
+              <AnchorLink
+                to="/#previous"
+                title="Previous Editions"
+                className="stripped"
+                stripHash
+              />
             </li>
           </ul>
         </nav>
