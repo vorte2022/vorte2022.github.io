@@ -12,6 +12,7 @@ export default function Layout({ children }) {
         src="../images/banner.jpeg" 
         alt="Banner"
         layout="fullWidth"
+        placeholder="blurred"
         aspectRatio={16/5}
         // transformOptions={{fit: "cover", cropFocus: "attention"}}
       />
