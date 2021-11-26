@@ -19,29 +19,92 @@ p {
 
 /* layout & nav */
 .layout {
-  max-width: 920px;
+  
+}
+
+.navbar, .content {
   margin: 0 auto;
+  width: 80%;
+  max-width: 920px;
 }
+
+header {
+  background-color: #007be4;
+}
+
+header::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+header * {
+  color: white;
+}
+
+.navbar {
+  line-height: 64px;
+}
+
+.logo {
+  float: left;
+  font-weight: 500;
+}
+
 nav {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  margin: 40px auto;
-}
-nav .links {
-  display: inline-block;
-  text-align: right;
-}
-nav a {
-  display: inline-block;
-  margin-left: 20px;
+  float: right;
   font-weight: 400;
-  padding-bottom: 8px;
-  border-bottom: 3px solid transparent;
 }
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 35px;
+  position: relative;
+}
+
+nav a {
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
 nav a:hover {
-  border-color: white;
+  color: #ededed;
 }
-footer p{
+
+nav a::before {
+  content: '';
+  display: block;
+  height: 4px;
+  width: 0%;
+  background-color: #ededed;
+  position: absolute;
+  top: 0;
+  transition: all ease-in-out 250ms;
+}
+
+nav a:hover::before {
+  width: 100%;
+}
+
+.content a:hover {
+  border-color: #007be4;
+}
+
+.content a {
+  border-bottom: 0.1rem solid;
+}
+
+.content a:hover {
+  color: #007be4;
+}
+
+footer p {
   text-align: center;
   color: #bbb;
   margin: 40px auto;

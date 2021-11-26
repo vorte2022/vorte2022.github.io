@@ -3,12 +3,20 @@ import React from "react"
 
 export default function Navbar() {
   return (
-    <nav>
-      <h1>VMBO 2022</h1>
-      <div className="links">
-        <Link to="/">Home</Link>
-        <Link to="/organization">Organization</Link>
+    <header>
+      <div className="navbar">
+        <h1 className="logo">VMBO 2022</h1>
+        <nav>
+          <ul>
+            <li>
+              <Link to="/">Home</Link>
+            </li>
+            <li>
+              <Link to="/organization">Organization</Link>
+            </li>
+          </ul>
+        </nav>
       </div>
-    </nav>
+    </header>
   )
 }

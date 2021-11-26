@@ -7,8 +7,8 @@ export default function Home() {
       <section>
         <div>
           <h1>
-            16th International Workshop on Value Modelling and
-            Business Ontologies
+            16th International Workshop on Value Modelling and Business
+            Ontologies
           </h1>
           <p className="subtitle">
             Co-located with the{" "}
