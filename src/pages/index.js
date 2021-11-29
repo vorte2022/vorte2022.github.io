@@ -68,14 +68,14 @@ export default function Home() {
               Business ontology / value models for business process management
             </li>
           </ul>
-          <h3 id="dates">Important dates</h3>
+          <h3 id="dates">Important Dates</h3>
           <ul>
             <li>Paper submission: 8 March 2022 AoE (strict)</li>
             <li>Author notification: 8 April 2022</li>
             <li>Camera-ready: 18 April 2022</li>
             <li>Workshop: 6-7 June 2022</li>
           </ul>
-          <h3 id="guidelines">Submission guidelines</h3>
+          <h3 id="guidelines">Submission Guidelines</h3>
           <p>
             Submissions should describe original research ideas or
             contributions, present problems or challenges encountered in
@@ -112,6 +112,8 @@ export default function Home() {
               Submit a paper
             </a>
           </div>
+
+          <h3>Publication</h3>
           <p>
             Accepted papers will be published with CEUR-WS.org online
             proceedings, if desired by the authors.
@@ -129,7 +131,7 @@ export default function Home() {
             program; the aim is to accommodate all relevant papers with
             sufficient quality.
           </p>
-          <h3 id="organization">Workshop chairs</h3>
+          <h3 id="organization">Workshop Chairs</h3>
           <ul>
             <li>
               <div>
@@ -207,7 +209,7 @@ export default function Home() {
             </li>
           </ul>
 
-          <h3 id="previous">Previous editions</h3>
+          <h3 id="previous">Previous Editions</h3>
           <ul>
             <li>
               <a
