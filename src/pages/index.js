@@ -21,25 +21,12 @@ export default function Home() {
           <h2>Call for papers</h2>
           <h3>About</h3>
           <p>
-            The importance of modeling the essence of enterprises on a level
-            that abstracts from operational details is increasingly recognized.
-            Two established enterprise modeling approaches are value modeling
-            and business ontology. Business ontology provides abstract
-            descriptions of enterprises in their business context, focusing on
-            what is needed to create and transfer value. Value modeling is a
-            business modeling approach that focuses on the value objects
-            exchanged in business networks. Business ontology and value modeling
-            research are conducted using instruments like UFO (Unified
-            Foundational Ontology), REA (Resources, Events, Agents), the
-            Business Model Canvas, the e3value toolset, VDML (Value Delivery
-            Modeling Language), and the Enterprise Engineering framework
+          The importance of modeling the essence of enterprises on a level that abstracts from operational details is increasingly recognized. Two established enterprise modeling approaches are value modeling and business ontology. Value modeling is a business modeling approach that focuses on the value objects exchanged in business networks. Business ontology provides abstract descriptions of enterprises in their business context, focusing on what is needed to create and transfer value. Research in these fields is conducted using instruments like the REA Ontology (Resources, Events, Agents), the Unified Foundational Ontology (UFO), the Business Model Canvas, the e3value toolset, the Value Delivery Modeling Language (VDML), and the Enterprise Engineering framework.
           </p>
           <p>The goal of the VMBO workshop series is two-fold:</p>
           <ul>
             <li>
-              to bring together researchers with an interest in value modeling
-              and business ontology to present and discuss the current state of
-              enterprise or business modeling
+            to bring together researchers with an interest in value modeling and business ontology to present and discuss the current state of the art
             </li>
             <li>to identify key areas for further research</li>
           </ul>
