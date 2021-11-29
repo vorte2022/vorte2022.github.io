@@ -11,7 +11,7 @@ export default function Home() {
             Ontologies
           </h1>
           <p className="subtitle">
-            Co-located with the{" "}
+            In conjunction with the{" "}
             <a href="https://caise22.ugent.be/">
               34th International Conference on Advanced Information Systems
               Engineering (CAiSE 2022)
@@ -160,8 +160,9 @@ export default function Home() {
 
           <h3>Program Committee (Tentative)</h3>
           <ul>
-            <li> Ben Roelens – Open University, The Netherlands</li>
+            <li>Ben Roelens – Open University, The Netherlands</li>
             <li>Bill McCarthy – Michigan State University, USA</li>
+            <li>Birger Andersson – Stockholm University, Sweden</li>
             <li>Christian Huemer – TU Wien, Austria</li>
             <li>Cristine Griffo – Free University of Bozen-Bolzano, Italy</li>
             <li>
@@ -177,7 +178,6 @@ export default function Home() {
             <li>Geert Poels – Ghent University, Belgium</li>
             <li>Giancarlo Guizzardi – University of Twente, The Netherlands</li>
             <li>Graham Gal – University of Massachusetts, USA</li>
-            <li>Hans Weigand – Tilburg University, The Netherlands</li>
             <li>
               Iván Razo-Zapata – Instituto Tecnológico Autónomo de México
               (ITAM), Mexico
@@ -196,8 +196,7 @@ export default function Home() {
             <li>
               Nicola Guarino – Laboratory for Applied Ontology – ISTC-CNR, Italy
             </li>
-            <li>Paul Johannesson – Stockholm University, Sweden</li>
-            <li>Pavel Hruby – REA technologies, Denmark</li>
+            <li>Pavel Hruby – DXC Technology, Denmark</li>
             <li>
               Renata S. S. Guizzardi – University of Twente, The Netherlands
             </li>
