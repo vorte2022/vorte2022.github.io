@@ -180,7 +180,6 @@ export default function Home() {
             </li>
             <li>Joris Hulstijn – Tilburg University, The Netherlands</li>
             <li>Marten van Sinderen – University of Twente, The Netherlands</li>
-            <li>Michaël Verdonck – Vrije Universiteit Brussel, Belgium</li>
             <li>Mike Bennett – Hypercube Limited, UK</li>
             <li>
               Nicola Guarino – Laboratory for Applied Ontology – ISTC-CNR, Italy
