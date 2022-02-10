@@ -7,8 +7,7 @@ export default function Home() {
       <section>
         <div>
           <h1>
-            16th International Workshop on Value Modelling and Business
-            Ontologies
+            11th International Workshop on Vocabularies, Ontologies and Rules for the Enterprise
           </h1>
           <p className="subtitle">
             In conjunction with the{" "}
@@ -21,7 +20,7 @@ export default function Home() {
           <h2>Call for papers</h2>
           <h3>About</h3>
           <p>
-          The importance of modeling the essence of enterprises on a level that abstracts from operational details is increasingly recognized. Two established enterprise modeling approaches are value modeling and business ontology. Value modeling is a business modeling approach that focuses on the value objects exchanged in business networks. Business ontology provides abstract descriptions of enterprises in their business context, focusing on what is needed to create and transfer value. Research in these fields is conducted using instruments like the REA Ontology (Resources, Events, Agents), the Unified Foundational Ontology (UFO), the Business Model Canvas, the e3value toolset, the Value Delivery Modeling Language (VDML), and the Enterprise Engineering framework.
+          VORTE intends to bring together researchers and practitioners in areas such as formal ontology, enterprise modeling, information systems, semantic web, model-driven engineering, business rules, and business process management. The major objective is to provide a research forum for exchanging ideas and results covering the use of ontologies and rules in various stages of the development lifecycle of enterprise systems. Fundamental research contributions include the ontological evaluation of enterprise systems and their interoperability and the investigation of the use of ontologies, rules, and AI techniques in services and business process modeling. 
           </p>
           <p>The goal of the VMBO workshop series is two-fold:</p>
           <ul>
