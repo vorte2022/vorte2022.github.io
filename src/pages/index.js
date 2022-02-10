@@ -263,6 +263,7 @@ export default function Home() {
             <li>VMBO 2012, Vienna, AT</li>
             <li>VMBO 2011, Ghent, BE</li>
             <li>VMBO 2009, Amsterdam, NL</li>
+            <li>TESTE TESTE</li>
           </ul>
         </div>
       </section>
