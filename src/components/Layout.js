@@ -18,7 +18,7 @@ export default function Layout({ children }) {
       />
       <div className="content">{children}</div>
       <footer>
-        <p>Website created by Dr. Tiago Prince Sales.</p>
+        <p>Website created by Dr. Tiago Prince Sales and addapted by Pedro Paulo F. Barcelos and Mattia Fumagalli.</p>
       </footer>
     </div>
   )

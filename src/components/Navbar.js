@@ -7,7 +7,7 @@ export default function Navbar() {
     <header>
       <div className="navbar">
         <Link to="/" className="logo">
-          VMBO 2022
+          VORTE 2022
         </Link>
         <nav>
           <ul>
