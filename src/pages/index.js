@@ -25,7 +25,7 @@ export default function Home() {
           </ul>
           <p>All submissions MUST conform to the two-column format of IEEE conference proceedings (http://www2.computer.org/portal/web/cscps/formatting) and include the author's name, affiliation, and contact details.</p>
           
-          <h3 id="guidelines">Important Dates</h3>
+          <h3 id="dates">Important Dates</h3>
           <ul>
             <li>Abstract submission: April 10th, 2022</li>
             <li>Paper submission: April 17th, 2022</li>
@@ -34,7 +34,7 @@ export default function Home() {
             <li>Workshop: June</li>
           </ul>
 
-          <h3>Workshop Chairs</h3>
+          <h3 id="organization">Workshop Chairs</h3>
           <ul>
             <li>Mattia Fumagalli - Free University of Bozen-Bolzano, Italy</li>
             mattia.fumagalli [at] unibz.it
