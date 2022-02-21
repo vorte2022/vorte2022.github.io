@@ -44,42 +44,28 @@ export default function Home() {
             giancarlo.guizzardi [at] unibz.it
           </ul>
           
-          <h3>Program Committee (Tentative)</h3>
+          <h3>Program Committee</h3>
           <ul>
-            <li>Aldo Gangemi - University of Bologna (Italy)</li>
-            <li>Andreas Opdahl - University of Bergen (Norway)</li>
-            <li>Cristine Griffo - Free University of Bozen-Bolzano (Italy)</li>
-            <li>Daniele Porello - Laboratory for Applied Ontology, ISTC-CNR (Italy)</li>
-            <li>Enrico Franconi - Free University of Bozen-Bolzano (Italy)</li>
-            <li>Fabian Neuhaus - University of Magdeburg (Germany)</li>
-            <li>Fernanda Baião - PUC-Rio (Brazil)</li>
-            <li>Florian Matthes - University of Munich (Germany)</li>
-            <li>Frank Loebe - University of Leipzig (Germany)</li>
-            <li>Frederik Gailly - Ghent University (Belgium)</li>
-            <li>Gabor Bella - University of Trento (Italy)</li>
-            <li>Geert Poels - Ghent University (Belgium)</li>
-            <li>Giancarlo Guizzardi - Free University of Bozen-Bolzano (Italy)</li>
-            <li>Guido Governatori - NICTA (Australia)</li>
-            <li>Hans Weigand - Tilburg University (Netherlands)</li>
-            <li>João Paulo A. Almeida - Federal University of Espírito Santo (Brazil)</li>
-            <li>Julio Cesar Nardi - Federal Institute of Espirito Santo (Brazil)</li>
-            <li>Leo Obrst - RETIRED FROM MITRE Corporation (USA)</li>
-            <li>Luís Ferreira Pires - University of Twente (The Netherlands)</li>
-            <li>Michael Gruninger - University of Toronto (Canada)</li>
-            <li>Michael Lawley - Australian E-Health Research Centre (Australia)</li>
-            <li>Nicholas Car - Australian National University (Australia)</li>
-            <li>Nicola Guarino - Laboratory for Applied Ontology, ISTC-CNR (Italy)</li>
-            <li>Oliver Kutz - Free University of Bozen-Bolzano (Italy)</li>
-            <li>Oscar Pastor - Polytechnic University of Valencia (Spain)</li>
-            <li>Paul Johannesson - Stockholm University (Sweden)</li>
-            <li>Renata Guizzardi - University of Twente (The Netherlands)</li>
-            <li>Robert Lagerström - KTH Royal Institute of Technology (Sweden)</li>
-            <li>Roberta Ferrario - Laboratory for Applied Ontology, ISTC-CNR (Italy)</li>
-            <li>Sergio de Cesare - University of Westminster (UK)</li>
-            <li>Stefano Borgo - Laboratory for Applied Ontology (Italy)</li>
-            <li>Terry Roach - Capsifi (Australia)</li>
-            <li>Tiago Prince Sales - Free University of Bozen-Bolzano (Italy)</li>
-            <li>Ulrich Frank - University of Duisburg-Essen (Germany)</li>
+            <li>Andreas Opdahl - University of Bergen, Norway</li>
+            <li>Cristine Griffo - Free University of Bozen-Bolzano, Italy</li>
+            <li>Daniele Porello - Laboratory for Applied Ontology, ISTC-CNR, Italy</li>
+            <li>Fernanda Baião - PUC-Rio, Brazil</li>
+            <li>Florian Matthes - University of Munich, Germany</li>
+            <li>Frank Loebe - University of Leipzig, Germany</li>
+            <li>Frederik Gailly - Ghent University, Belgium</li>
+            <li>Giancarlo Guizzardi - Free University of Bozen-Bolzano, Italy</li>
+            <li>Hans Weigand - Tilburg University, Netherlands</li>
+            <li>Julio Cesar Nardi - Federal Institute of Espirito Santo, Brazil</li>
+            <li>Leo Obrst - RETIRED FROM MITRE Corporation, USA</li>
+            <li>Luís Ferreira Pires - University of Twente, The Netherlands</li>
+            <li>Oscar Pastor - Polytechnic University of Valencia, Spain</li>
+            <li>Paul Johannesson - Stockholm University, Sweden</li>
+            <li>Renata Guizzardi - University of Twente, The Netherlands</li>
+            <li>Roberta Ferrario - Laboratory for Applied Ontology, ISTC-CNR, Italy</li>
+            <li>Sergio de Cesare - University of Westminster, UK</li>
+            <li>Stefano Borgo - Laboratory for Applied Ontology, Italy</li>
+            <li>Terry Roach - Capsifi, Australia</li>
+            <li>Tiago Prince Sales - Free University of Bozen-Bolzano, Italy</li>
           </ul>
 
           <h3>Publication</h3>
