@@ -23,7 +23,7 @@ export default function Home() {
 
           <p>All submissions MUST conform to the two-column format of IEEE conference proceedings (http://www2.computer.org/portal/web/cscps/formatting) and include the author's name, affiliation, and contact details.</p>
 
-          <p>Papers must be submitted as PDF files using EasyChair on the following submission link: <a>https://easychair.org/conferences/?conf=vorte2022"</a></p>
+          <p>Papers must be submitted as PDF files using <a href="https://easychair.org/conferences/?conf=vorte2022">EasyChair on this submission link</a>.</p>
           
           <h3 id="dates">Important Dates</h3>
           <ul>
