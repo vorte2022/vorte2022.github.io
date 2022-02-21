@@ -13,7 +13,7 @@ export default function Layout({ children }) {
         alt="Banner"
         layout="fullWidth"
         placeholder="blurred"
-        aspectRatio={16/9}
+        aspectRatio={16/5}
         // transformOptions={{fit: "cover", cropFocus: "attention"}}
       />
       <div className="content">{children}</div>
