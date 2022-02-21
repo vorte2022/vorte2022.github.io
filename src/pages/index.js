@@ -25,6 +25,61 @@ export default function Home() {
 
           <p>Papers must be submitted as PDF files using <a href="https://easychair.org/conferences/?conf=vorte2022">EasyChair on this submission link</a>.</p>
           
+          
+          
+<h3>Topics</h3>
+
+<p>Vocabularies and Ontologies for the enterprise:</p>
+
+<ul>
+  <li>Ontology-driven representation of products, services, functionalities, design, processes;</li>
+  <li>Ontologies for expert knowledge;</li>
+  <li>Ontologies for corporate knowledge;</li>
+  <li>Foundational or upper-level ontologies in the enterprise;</li>
+  <li>Adaptation of ontologies for companies and organizations; </li>
+</ul>
+
+<p>Conceptual and Enterprise Modeling:</p>
+
+<ul>
+  <li>Ontological Foundations for Conceptual Modeling and Meta-modeling;</li>
+  <li>Ontology Design and maintenance for Conceptual Model Integration; </li>
+  <li>Ontology-Based Conceptual Modeling Tools and Environments;</li>
+  <li>Ontologies and Enterprise Architecture Modeling;</li>
+  <li>Ontologies and Business Process Modeling;</li>
+  <li>Ontologies and Goal-Based Modeling;</li>
+  <li>Ontologies and Business Rules;</li>
+  <li>Ontologies and Capability and Motivation Modeling</li>
+</ul>
+
+<p>Enterprise Semantic Interoperability:</p>
+
+<ul>
+  <li>Web services and Semantic services</li>
+  <li>Composition and Modularity</li>
+  <li>Merging, Mapping and Alignment</li>
+  <li>Ontology Language Interoperability</li>
+  <li>Open linked data publishing and exploitation</li>
+</ul>
+
+<p>Knowledge management:</p>
+
+<ul>
+  <li>Ontology and ontological methodologies in knowledge management and integration;</li>
+  <li>Ontology engineering, learning and maintenance;</li>
+  <li>Ontology integration and alignment;</li>
+  <li>Ontology effectiveness and evaluation;</li>
+</ul>
+
+<p>Case studies and Evaluation:</p>
+
+<ul>
+  <li>Practical issues in using ontologies in enterprises</li>
+  <li>Real cases of successful/unsuccessful use of ontology in business</li>
+  <li>Migration from legacy systems to new ontology-driven systems</li>
+</ul>   
+          
+          
           <h3 id="dates">Important Dates</h3>
           <ul>
             <li>Abstract submission: April 10th, 2022</li>
