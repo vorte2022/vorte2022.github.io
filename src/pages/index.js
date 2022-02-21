@@ -18,12 +18,12 @@ export default function Home() {
           <p>The workshop also welcomes experience reports and empirical studies that are reporting on the use of ontologies and rules in the enterprise system development life-cycle.</p>
           
           <h3 id="guidelines">Submission Guidelines</h3>
-          <p>We solicit two types of papers:</p>
-          <ul>
-            <li>Short papers (up to 4 pages excluding references) discussing controversial issues in the field or describing interesting or thought-provoking ideas that are not yet fully developed; and</li>
-            <li>Full papers (up to 8 pages excluding references) describing more mature results.</li>
-          </ul>
+
+          <p>Submissions should describe original research ideas or contributions, present problems or challenges encountered in practice, or report on industrial cases and practices.</p>
+
           <p>All submissions MUST conform to the two-column format of IEEE conference proceedings (http://www2.computer.org/portal/web/cscps/formatting) and include the author's name, affiliation, and contact details.</p>
+
+          <a href="https://easychair.org/conferences/?conf=vorte2022">CLICK HERE</a> for submitting a paper.
           
           <h3 id="dates">Important Dates</h3>
           <ul>
