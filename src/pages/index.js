@@ -53,10 +53,9 @@ export default function Home() {
             <li>Florian Matthes - University of Munich, Germany</li>
             <li>Frank Loebe - University of Leipzig, Germany</li>
             <li>Frederik Gailly - Ghent University, Belgium</li>
-            <li>Giancarlo Guizzardi - Free University of Bozen-Bolzano, Italy</li>
             <li>Hans Weigand - Tilburg University, Netherlands</li>
             <li>Julio Cesar Nardi - Federal Institute of Espirito Santo, Brazil</li>
-            <li>Leo Obrst - RETIRED FROM MITRE Corporation, USA</li>
+            <li>Leo Obrst - (retired from) MITRE Corporation, USA</li>
             <li>Luís Ferreira Pires - University of Twente, The Netherlands</li>
             <li>Oscar Pastor - Polytechnic University of Valencia, Spain</li>
             <li>Paul Johannesson - Stockholm University, Sweden</li>
