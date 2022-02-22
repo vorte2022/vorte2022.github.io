@@ -32,23 +32,23 @@ export default function Home() {
 <p>Vocabularies and Ontologies for the enterprise:</p>
 
 <ul>
-  <li>Ontology-driven representation of products, services, functionalities, design, processes;</li>
-  <li>Ontologies for expert knowledge;</li>
-  <li>Ontologies for corporate knowledge;</li>
-  <li>Foundational or upper-level ontologies in the enterprise;</li>
-  <li>Adaptation of ontologies for companies and organizations; </li>
+  <li>Ontology-driven representation of products, services, functionalities, design, processes</li>
+  <li>Ontologies for expert knowledge</li>
+  <li>Ontologies for corporate knowledge</li>
+  <li>Foundational or upper-level ontologies in the enterprise</li>
+  <li>Adaptation of ontologies for companies and organizations </li>
 </ul>
 
 <p>Conceptual and Enterprise Modeling:</p>
 
 <ul>
-  <li>Ontological Foundations for Conceptual Modeling and Meta-modeling;</li>
-  <li>Ontology Design and maintenance for Conceptual Model Integration; </li>
-  <li>Ontology-Based Conceptual Modeling Tools and Environments;</li>
-  <li>Ontologies and Enterprise Architecture Modeling;</li>
-  <li>Ontologies and Business Process Modeling;</li>
-  <li>Ontologies and Goal-Based Modeling;</li>
-  <li>Ontologies and Business Rules;</li>
+  <li>Ontological Foundations for Conceptual Modeling and Meta-modeling</li>
+  <li>Ontology Design and maintenance for Conceptual Model Integration </li>
+  <li>Ontology-Based Conceptual Modeling Tools and Environments</li>
+  <li>Ontologies and Enterprise Architecture Modeling</li>
+  <li>Ontologies and Business Process Modeling</li>
+  <li>Ontologies and Goal-Based Modeling</li>
+  <li>Ontologies and Business Rules</li>
   <li>Ontologies and Capability and Motivation Modeling</li>
 </ul>
 
@@ -65,10 +65,10 @@ export default function Home() {
 <p>Knowledge management:</p>
 
 <ul>
-  <li>Ontology and ontological methodologies in knowledge management and integration;</li>
-  <li>Ontology engineering, learning and maintenance;</li>
-  <li>Ontology integration and alignment;</li>
-  <li>Ontology effectiveness and evaluation;</li>
+  <li>Ontology and ontological methodologies in knowledge management and integration</li>
+  <li>Ontology engineering, learning and maintenance</li>
+  <li>Ontology integration and alignment</li>
+  <li>Ontology effectiveness and evaluation</li>
 </ul>
 
 <p>Case studies and Evaluation:</p>
@@ -108,6 +108,7 @@ export default function Home() {
             <li>Florian Matthes - University of Munich, Germany</li>
             <li>Frank Loebe - University of Leipzig, Germany</li>
             <li>Frederik Gailly - Ghent University, Belgium</li>
+            <li>Gabor Bella - University of Trento, Italy</li>
             <li>Hans Weigand - Tilburg University, Netherlands</li>
             <li>Julio Cesar Nardi - Federal Institute of Espirito Santo, Brazil</li>
             <li>Leo Obrst - (retired from) MITRE Corporation, USA</li>
