@@ -21,63 +21,68 @@ export default function Home() {
 
           <p>Submissions should describe original research ideas or contributions, present problems or challenges encountered in practice, or report on industrial cases and practices.</p>
 
-          <p>All submissions MUST conform to the two-column format of IEEE conference proceedings (http://www2.computer.org/portal/web/cscps/formatting) and include the author's name, affiliation, and contact details.</p>
+          <p>All submissions MUST:</p>
+            <ul>
+              <li>conform to the two-column format of IEEE conference proceedings (http://www2.computer.org/portal/web/cscps/formatting);</li>
+              <li>include the author's name, affiliation, and contact details;</li>
+              <li>not have been previously published or submitted elsewhere; and</li>
+              <li>have up 8 pages excluding references.</li>
+            </ul>
 
-          <p>Papers must be submitted as PDF files using <a href="https://easychair.org/conferences/?conf=vorte2022">EasyChair on this submission link</a>.</p>
+          <p>Papers must be submitted as PDF files using <a href="https://easychair.org/conferences/?conf=vorte2022">EasyChair on this submission link</a>.</p>          
           
           
-          
-<h3>Topics</h3>
+          <h3>Topics</h3>
 
-<p>Vocabularies and Ontologies for the enterprise:</p>
+          <p>Vocabularies and Ontologies for the enterprise:</p>
 
-<ul>
-  <li>Ontology-driven representation of products, services, functionalities, design, processes</li>
-  <li>Ontologies for expert knowledge</li>
-  <li>Ontologies for corporate knowledge</li>
-  <li>Foundational or upper-level ontologies in the enterprise</li>
-  <li>Adaptation of ontologies for companies and organizations </li>
-</ul>
+          <ul>
+            <li>Ontology-driven representation of products, services, functionalities, design, processes</li>
+            <li>Ontologies for expert knowledge</li>
+            <li>Ontologies for corporate knowledge</li>
+            <li>Foundational or upper-level ontologies in the enterprise</li>
+            <li>Adaptation of ontologies for companies and organizations </li>
+          </ul>
 
-<p>Conceptual and Enterprise Modeling:</p>
+          <p>Conceptual and Enterprise Modeling:</p>
 
-<ul>
-  <li>Ontological Foundations for Conceptual Modeling and Meta-modeling</li>
-  <li>Ontology Design and maintenance for Conceptual Model Integration </li>
-  <li>Ontology-Based Conceptual Modeling Tools and Environments</li>
-  <li>Ontologies and Enterprise Architecture Modeling</li>
-  <li>Ontologies and Business Process Modeling</li>
-  <li>Ontologies and Goal-Based Modeling</li>
-  <li>Ontologies and Business Rules</li>
-  <li>Ontologies and Capability and Motivation Modeling</li>
-</ul>
+          <ul>
+            <li>Ontological Foundations for Conceptual Modeling and Meta-modeling</li>
+            <li>Ontology Design and maintenance for Conceptual Model Integration </li>
+            <li>Ontology-Based Conceptual Modeling Tools and Environments</li>
+            <li>Ontologies and Enterprise Architecture Modeling</li>
+            <li>Ontologies and Business Process Modeling</li>
+            <li>Ontologies and Goal-Based Modeling</li>
+            <li>Ontologies and Business Rules</li>
+            <li>Ontologies and Capability and Motivation Modeling</li>
+          </ul>
 
-<p>Enterprise Semantic Interoperability:</p>
+          <p>Enterprise Semantic Interoperability:</p>
 
-<ul>
-  <li>Web services and Semantic services</li>
-  <li>Composition and Modularity</li>
-  <li>Merging, Mapping and Alignment</li>
-  <li>Ontology Language Interoperability</li>
-  <li>Open linked data publishing and exploitation</li>
-</ul>
+          <ul>
+            <li>Web services and Semantic services</li>
+            <li>Composition and Modularity</li>
+            <li>Merging, Mapping and Alignment</li>
+            <li>Ontology Language Interoperability</li>
+            <li>Open linked data publishing and exploitation</li>
+          </ul>
 
-<p>Knowledge management:</p>
+          <p>Knowledge management:</p>
 
-<ul>
-  <li>Ontology and ontological methodologies in knowledge management and integration</li>
-  <li>Ontology engineering, learning and maintenance</li>
-  <li>Ontology integration and alignment</li>
-  <li>Ontology effectiveness and evaluation</li>
-</ul>
+          <ul>
+            <li>Ontology and ontological methodologies in knowledge management and integration</li>
+            <li>Ontology engineering, learning and maintenance</li>
+            <li>Ontology integration and alignment</li>
+            <li>Ontology effectiveness and evaluation</li>
+          </ul>
 
-<p>Case studies and Evaluation:</p>
+          <p>Case studies and Evaluation:</p>
 
-<ul>
-  <li>Practical issues in using ontologies in enterprises</li>
-  <li>Real cases of successful/unsuccessful use of ontology in business</li>
-  <li>Migration from legacy systems to new ontology-driven systems</li>
-</ul>   
+          <ul>
+            <li>Practical issues in using ontologies in enterprises</li>
+            <li>Real cases of successful/unsuccessful use of ontology in business</li>
+            <li>Migration from legacy systems to new ontology-driven systems</li>
+          </ul>   
           
           
           <h3 id="dates">Important Dates</h3>
