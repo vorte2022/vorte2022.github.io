@@ -91,7 +91,7 @@ export default function Home() {
             <li>Paper submission (extended): April 25th, 2022</li>
             <li>Acceptance Notification (extended): May 10th, 2022</li>
             <li>Camera Ready Submission: May 15th, 2022</li>
-            <li>Workshop: June</li>
+            <li><a href="https://cbi2022.cs.vu.nl/?page_id=48">Workshop: June 15th, 2022</a></li>
           </ul>
 
           <h3 id="organization">Workshop Chairs</h3>
