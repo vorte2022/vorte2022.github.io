@@ -7,16 +7,32 @@ export default function Home() {
       <section>
         <div>
           
-          <h1> 11th International Workshop on Vocabularies, Ontologies and Rules for the Enterprise</h1>
-          <p className="subtitle">In conjunction with the <a href="https://cbi2022.cs.vu.nl/"> 24th IEEE International Conference on Business Informatics (CBI 2022)</a>, Amsterdam, The Netherlands, 15–17 june 2022.</p>
-          
-          <h2>Call for papers</h2>
-          
-          <h3>About</h3>
+          <h1> 11th International Workshop on Vocabularies, Ontologies and Rules for the Enterprise (VORTE) - Amsterdam, The Netherlands, 15 June 2022</h1>
+          <p className="subtitle">In conjunction with the <a href="https://cbi2022.cs.vu.nl/"> 24th IEEE International Conference on Business Informatics (CBI 2022)</a> - Amsterdam, The Netherlands, 15–17 June 2022.</p>
+                     
+          <h2>About</h2>
           <p>The 11th International Workshop on Vocabularies, Ontologies and Rules for the Enterprise (VORTE 2022) is devoted to the topics of vocabularies, ontologies and rules in the context of enterprise systems. Examples of topics covered by VORTE include the development and adaptation of foundational, business and domain ontologies for the enterprise, the use of ontologies and rules in all aspects of enterprise modeling such as business process management and services, the enhancement of rules and services with formal semantics, and the evaluation of such systems and approaches.</p>
           <p>From the enterprise system development perspective, research topics are focused on relations of process modeling and execution languages with business ontologies and rules, and on how business ontologies and rules used in enterprise models are further propagated into technologies (e.g., linked data and semantic web) and architectures (e.g., service-oriented architectures) that enable collaboration between heterogeneous enterprise systems.</p>
           <p>The workshop also welcomes experience reports and empirical studies that are reporting on the use of ontologies and rules in the enterprise system development life-cycle.</p>
           
+          <h2 id="content">VORTE 2022 Content</h2>
+
+          <h3>Keynote speaker</h3>
+
+          <p>VORTE 2022 is glad to receive <a href="http://www.inf.ufes.br/~rguizzardi/">Renata Guizzardi</a> as a keynote speaker.</p>
+
+          <p>Renata Guizzardi is an Associate Professor at the Computer Science Department at UFES, Brazil and a Visiting Researcher at FBK, Software Engineering Group, Italy. She is a senior member of the Conceptual Modeling Research Group (NEMO) and a founding member of the Laboratory of Supporting Technologies for Collaborative Networks (LabTAR).Her main research interests include knowledge management, ontologies, goal modeling, and business process modeling.</p>
+
+          <h3>Accepted papers</h3>
+
+          <p>The 11th edition of VORTE is going to receive the presentation of the following accepted papers</p>
+            <ul>
+              <li>Knowledge Graph Semantic Annotation and Population with Real-Time Events Data from GDELT <em>(Marc Gallofré Ocaña, Tareq Al-Moslmi and Andreas L. Opdahl)</em></li>
+              <li>Interoperating Vocabularies in Multilingual Domain Data	<em>(Simone Bocca, Gabor Bella and Fausto Giunchiglia)</em></li>
+            </ul>
+
+          <h2>Call for papers</h2>
+
           <h3 id="guidelines">Submission Guidelines</h3>
 
           <p>Submissions should describe original research ideas or contributions, present problems or challenges encountered in practice, or report on industrial cases and practices.</p>
@@ -136,10 +152,7 @@ export default function Home() {
 
           <h3 id="previous">Previous Editions</h3>
           <ul>
-            <li>
-              <a href="https://vorte2021.events.unibz.it/" target="_blank" rel="noreferrer"> VORTE 2021</a>
-              , Gold Coast, Australia (virtual)
-            </li>
+            <li><a href="https://vorte2021.events.unibz.it/" target="_blank" rel="noreferrer"> VORTE 2021</a> - virtual, (Gold Coast, Australia)</li>
             <li> VORTE 2017 (Québec City, Canada)</li>
             <li> VORTE 2013 (Vancouver, Canada)</li>
             <li> VORTE 2012 (Beijing, China)</li>

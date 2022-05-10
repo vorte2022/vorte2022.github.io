@@ -13,13 +13,12 @@ export default function Navbar() {
           <ul>
             <li>
               <AnchorLink
-                to="/#dates"
-                title="Important Dates"
+                to="/#content"
+                title="VORTE 2022 Content"
                 className="stripped"
                 stripHash
               />
-            </li>
-
+            </li>            
             <li>
               <AnchorLink
                 to="/#guidelines"
@@ -28,7 +27,14 @@ export default function Navbar() {
                 stripHash
               />
             </li>
-
+            <li>
+              <AnchorLink
+                to="/#dates"
+                title="Important Dates"
+                className="stripped"
+                stripHash
+              />
+            </li>            
             <li>
               <AnchorLink
                 to="/#organization"
@@ -37,7 +43,6 @@ export default function Navbar() {
                 stripHash
               />
             </li>
-
             <li>
               <AnchorLink
                 to="/#previous"
