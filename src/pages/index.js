@@ -19,9 +19,9 @@ export default function Home() {
 
           <h3>Keynote speaker</h3>
 
-          <p>VORTE 2022 is glad to receive <a href="http://www.inf.ufes.br/~rguizzardi/">Renata Guizzardi</a> as a keynote speaker.</p>
+          <p>VORTE 2022 is glad to receive <a href="https://people.utwente.nl/r.guizzardi">Renata Guizzardi</a> as a keynote speaker.</p>
 
-          <p>Renata Guizzardi is an Associate Professor at the Computer Science Department at UFES, Brazil and a Visiting Researcher at FBK, Software Engineering Group, Italy. She is a senior member of the Conceptual Modeling Research Group (NEMO) and a founding member of the Laboratory of Supporting Technologies for Collaborative Networks (LabTAR).Her main research interests include knowledge management, ontologies, goal modeling, and business process modeling.</p>
+          <p>Renata Guizzardi is currently an Assistant Professor at the Behavioral, Management and Social Sciences Faculty, (IEBIS group) of the University of Twente, in the Netherlands. Moreover, she is a founding member of the Ontology & Conceptual Modeling Research Group (NEMO) and of the Laboratory of Supporting Technologies for Collaborative Networks (LabTAR), at UFES, Brazil, where she held an Associate Professor position from 2009-2016. Her main research interests include Knowledge Management, Ontologies and Goal-oriented Modeling.</p>
 
           <h3>Accepted papers</h3>
 
