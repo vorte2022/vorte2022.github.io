@@ -21,6 +21,12 @@ export default function Home() {
 
           <p>VORTE 2022 is glad to receive <a href="https://people.utwente.nl/r.guizzardi">Renata Guizzardi</a> as a keynote speaker.</p>
 
+          <h4>Presentation: The Ontology of Trust and the Design of Trustworthy Systems</h4>
+
+          <p>In a world increasingly reliant on information systems and computing technology, where Artificial Intelligence plays an ever-greater role, concerns of information systems trustworthiness also become more pressing. But how can we make sure a system is trustworthy? In this talk, I argue that developing trustworthy systems requires that we address trustworthiness from the early stages of system development, by eliciting and analyzing trustworthiness requirements. And to enable that, I present an ontology-based approach to requirements engineering. Ontological analysis supports the understanding of what trustworthiness means, by defining it in association with related and well-founded notions. Moreover, following the proposed approach, ontologies are used to guide the requirements analysis in eliciting and analyzing trustworthiness requirements. I illustrate this approach with a case of trustworthiness requirements in a real-world nation-wide instant payment system.</p>
+
+          <h4>Short biography</h4>
+
           <p>Renata Guizzardi is currently an Assistant Professor at the Behavioral, Management and Social Sciences Faculty, (IEBIS group) of the University of Twente, in the Netherlands. Moreover, she is a founding member of the Ontology & Conceptual Modeling Research Group (NEMO) and of the Laboratory of Supporting Technologies for Collaborative Networks (LabTAR), at UFES, Brazil, where she held an Associate Professor position from 2009-2016. Her main research interests include Knowledge Management, Ontologies and Goal-oriented Modeling.</p>
 
           <h3>Accepted papers</h3>
